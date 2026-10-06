@@ -33,5 +33,33 @@ Our games are not intended for use by children under the age of 13. We do not kn
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## 6. Contact Us
+# Terms of Service for BlackoutHorrorVR
+
+Last updated: October 2026
+
+Please read these Terms of Service ("Terms") carefully before downloading or playing BlackoutHorrorVR, developed by RescoVR ("us", "we", or "our").
+
+## 1. Acceptance of Terms
+By downloading, installing, or playing BlackoutHorrorVR, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access the application.
+
+## 2. License to Use
+RescoVR grants you a personal, non-exclusive, non-transferable, revocable license to use BlackoutHorrorVR strictly for your personal, non-commercial entertainment purposes on compatible Meta Horizon devices.
+
+## 3. Prohibited Conduct
+You agree not to:
+* Modify, reverse engineer, decompile, or disassemble the game software.
+* Exploit bugs or glitches to disrupt the experience of other users.
+* Use the application for any commercial purposes without our express written consent.
+
+## 4. Disclaimer of Warranties
+BlackoutHorrorVR is provided on an "AS IS" and "AS AVAILABLE" basis. RescoVR makes no warranties, expressed or implied, regarding the stability, performance, or uninterrupted availability of the game.
+
+## 5. Limitation of Liability
+In no event shall RescoVR be liable for any indirect, incidental, special, consequential, or punitive damages arising out of your use of or inability to use the game.
+
+## 6. Contact
+For any questions regarding these Terms, contact us at:
+[Insert Your Contact Email Here]
+
 If you have any questions about this Privacy Policy, please contact us at:
 [Insert Your Contact Email Here]
